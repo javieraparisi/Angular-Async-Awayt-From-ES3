@@ -1,0 +1,11 @@
+.loading{
+  background-color: darkred;
+  color:white;
+  padding: 5px;
+}
+
+.ready{
+  background-color: green;
+  color:darkgray;
+  padding: 5px;
+}
